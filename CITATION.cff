@@ -1,0 +1,11 @@
+cff-version: 1.0.0
+message: "Si utiliza este repositorio o reproduce los experimentos, por favor cite el artículo y a sus autores."
+title: "Identificación de desnutrición en infantes usando visión por computador e inteligencia artificial"
+authors:
+  - family-names: "Hurtado Babilonia"
+    given-names: "Eleana Magdalena"
+  - family-names: "Puente Velásquez"
+    given-names: "José Alejandro"
+  - family-names: "Monroy Ríos"
+    given-names: "Martín"
+license: "MIT"

@@ -1,0 +1,12 @@
+google-colab
+ipynbname
+ipython
+keras
+matplotlib
+numpy
+opencv-python
+pandas
+pillow
+rembg
+scikit-learn
+tensorflow
